@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+
+def Welcome():
+    print("""
+    Welcome to my dragons liar
+
+    it going to be crazy
+    """)
+    name = input("What is your name?")
+    print("welcome young travel, " + name)
+    Dragons
+
+def Dragons():
+    print("""
+    you wake up looking scared
+    you see a dragon""")
+
+
+
+#-------------------------------
+Dragons()
+Welcome()
